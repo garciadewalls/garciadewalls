@@ -1,7 +1,7 @@
 - 👋 ¡Hola! Soy Guiomar
 - 👀 Me interesa la tecnología y la gestión de equipos de alto rendimiento
 - 🌱 Estoy aprendiendo como sacar lo mejor de cada parte del equipo
-- 💞️ Me encantaría colaborar con otros managers apra intercambiar buenas prácticas
+- 💞️ Me encantaría colaborar con otros managers para intercambiar buenas prácticas
 - 📫 Puedes escribirme y charlaremos de estos y otros temas
 
 <!---
